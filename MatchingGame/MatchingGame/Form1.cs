@@ -12,6 +12,9 @@ namespace MatchingGame
 {
 	public partial class Form1 : Form
 	{
+		Label firstClicked = null;
+
+		Label secondClicked = null;
 		public Form1()
 		{
 			InitializeComponent();
@@ -44,6 +47,9 @@ namespace MatchingGame
 
 		private void label_Click(object sender, EventArgs e)
 		{
+			if (timer1.Enabled == true)
+				return;
+
 			Label clickedLabel = sender as Label;
 
 			if (clickedLabel != null)
@@ -51,8 +57,30 @@ namespace MatchingGame
 				if (clickedLabel.ForeColor == Color.Black)
 					return;
 
-				clickedLabel.ForeColor = Color.Black;
+				if (firstClicked == null)
+				{
+					firstClicked = clickedLabel;
+					firstClicked.ForeColor = Color.Black;
+
+					return;
+				}
+
+				secondClicked = clickedLabel;
+				secondClicked.ForeColor = Color.Black;
+
+				timer1.Start();
 			}
+		}
+
+		private void Timer1_Tick(object sender, EventArgs e)
+		{
+			timer1.Stop();
+
+			firstClicked.ForeColor = firstClicked.BackColor;
+			secondClicked.ForeColor = secondClicked.BackColor;
+
+			firstClicked = null;
+			secondClicked = null;
 		}
 	}
 }
