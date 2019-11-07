@@ -88,6 +88,7 @@
 			// 
 			// label16
 			// 
+			this.label16.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label16.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label16.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label16.Location = new System.Drawing.Point(404, 383);
@@ -100,6 +101,7 @@
 			// 
 			// label15
 			// 
+			this.label15.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label15.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label15.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label15.Location = new System.Drawing.Point(271, 383);
@@ -112,6 +114,7 @@
 			// 
 			// label14
 			// 
+			this.label14.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label14.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label14.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label14.Location = new System.Drawing.Point(138, 383);
@@ -124,6 +127,7 @@
 			// 
 			// label13
 			// 
+			this.label13.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label13.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label13.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label13.Location = new System.Drawing.Point(5, 383);
@@ -136,6 +140,7 @@
 			// 
 			// label12
 			// 
+			this.label12.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label12.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label12.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label12.Location = new System.Drawing.Point(404, 256);
@@ -148,6 +153,7 @@
 			// 
 			// label11
 			// 
+			this.label11.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label11.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label11.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label11.Location = new System.Drawing.Point(271, 256);
@@ -160,6 +166,7 @@
 			// 
 			// label10
 			// 
+			this.label10.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label10.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label10.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label10.Location = new System.Drawing.Point(138, 256);
@@ -172,6 +179,7 @@
 			// 
 			// label9
 			// 
+			this.label9.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label9.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label9.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label9.Location = new System.Drawing.Point(5, 256);
@@ -184,6 +192,7 @@
 			// 
 			// label8
 			// 
+			this.label8.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label8.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label8.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label8.Location = new System.Drawing.Point(404, 129);
@@ -196,6 +205,7 @@
 			// 
 			// label7
 			// 
+			this.label7.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label7.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label7.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label7.Location = new System.Drawing.Point(271, 129);
@@ -208,6 +218,7 @@
 			// 
 			// label6
 			// 
+			this.label6.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label6.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label6.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label6.Location = new System.Drawing.Point(138, 129);
@@ -220,6 +231,7 @@
 			// 
 			// label5
 			// 
+			this.label5.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label5.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label5.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label5.Location = new System.Drawing.Point(5, 129);
@@ -232,6 +244,7 @@
 			// 
 			// label4
 			// 
+			this.label4.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label4.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label4.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label4.Location = new System.Drawing.Point(404, 2);
@@ -244,6 +257,7 @@
 			// 
 			// label3
 			// 
+			this.label3.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label3.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label3.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label3.Location = new System.Drawing.Point(271, 2);
@@ -256,6 +270,7 @@
 			// 
 			// label2
 			// 
+			this.label2.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label2.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label2.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label2.Location = new System.Drawing.Point(138, 2);
@@ -268,6 +283,7 @@
 			// 
 			// label1
 			// 
+			this.label1.BackColor = System.Drawing.Color.LightSeaGreen;
 			this.label1.Dock = System.Windows.Forms.DockStyle.Fill;
 			this.label1.Font = new System.Drawing.Font("Webdings", 48F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(2)));
 			this.label1.Location = new System.Drawing.Point(5, 2);
